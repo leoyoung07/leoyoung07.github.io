@@ -1,5 +1,11 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Leo Young
+description: Keep It Simple, Stupid.
+leo:
+    blog: /blog/
+    github: "https://github.com/leoyoung07"
+github:
+    repository_name: "leoyoung07.github.io"
+    repository_url: "https://github.com/leoyoung07/leoyoung07.github.io"
+    owner_name: "leoyoung07"
+    owner_url: "https://github.com/leoyoung07"
 theme: 
